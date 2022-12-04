@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weinerglory
 - 👀 I’m interested in physics and coding!
-- 🌱 I’m currently learning Js and C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ... wen#1525 on discord!
 
 <!---
